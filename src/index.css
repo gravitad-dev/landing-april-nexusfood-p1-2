@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a,
+p {
+  letter-spacing: 1.5px;
+}
+
+button:hover {
+  filter: brightness(1.1);
+  transition: filter 0.3ms;
+}
+
+button:active {
+  filter: saturate(0.8);
+  transition: filter 1s;
+}
+
+.text-2_5_xl {
+  font-size: 1.6rem;
+  line-height: 2.2rem;
+}
