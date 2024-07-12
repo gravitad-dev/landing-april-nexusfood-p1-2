@@ -1,32 +1,73 @@
 {
   "section-header": {
-    "navbar": ["Why us?", "Overview", "Professionals", "Lifestyle", "Project"],
+    "navbar": [
+      {
+        "url": "aboutus",
+        "text": "¿Porqué Nosotros?"
+      },
+      {
+        "url": "overview",
+        "text": "Misión"
+      },
+      {
+        "url": "professionals",
+        "text": "Profesionales"
+      },
+      {
+        "url": "lifestyle",
+        "text": "Estilo de vida"
+      },
+      {
+        "url": "project",
+        "text": "Proyecto"
+      }
+    ],
     "blog": "Blog",
-    "contact": "Contact",
+    "contact": "Contáctanos",
     "logo": "logos/4.png",
     "alt": "Landing logo",
     "logo2": "logos/1.png",
     "alt2": "Landing logo"
   },
   "section-one": {
-    "title": "Nexusfood: Connecting the Eating Habits of People and Pets",
+    "title": "Nexusfood: Conectando los hábitos alimentarios de las personas y las mascotas",
     "image": "perrohumano.jpg",
     "alt": "one section image"
   },
   "section-two": {
     "title": "Book an appointment",
     "filtersbar": {
-      "hospital": ["Hospital", "Item1", "Item2"],
-      "department": ["Department", "Item1", "Item2"],
-      "professionals": ["Professionals", "Item1", "Item2"],
-      "date": ["Date", "Item1", "Item2"],
-      "time": ["Time", "Item1", "Item2"]
+      "hospital": [
+        "Hospital",
+        "Item1",
+        "Item2"
+      ],
+      "department": [
+        "Department",
+        "Item1",
+        "Item2"
+      ],
+      "professionals": [
+        "Professionals",
+        "Item1",
+        "Item2"
+      ],
+      "date": [
+        "Date",
+        "Item1",
+        "Item2"
+      ],
+      "time": [
+        "Time",
+        "Item1",
+        "Item2"
+      ]
     },
     "button": "Search"
   },
   "section-three": {
-    "title": "At Nexusfood, we are on a unique mission...",
-    "subtitle": "to merge the worlds of human and animal food into one innovative platform. We specialize in designing and developing new technology that not only anticipates trends, but also detects changes in the eating habits of both people and pets.",
+    "title": "En Nexus Food, tenemos una misión única...",
+    "subtitle": "Fusionar los mundos de la alimentación humana y animal en una plataforma innovadora. Estamos especializados en diseñar y desarrollar nueva tecnología que no sólo se anticipe a las tendencias, sino que también detecte cambios en los hábitos alimentarios tanto de personas como de mascotas.",
     "image1": "perroconservilleta.jpg",
     "alt1": "three section image 1",
     "image2": "Nutricion.jpg",
@@ -35,8 +76,8 @@
     "alt3": "three section image 3"
   },
   "section-four": {
-    "title": "At Nexusfood, we are committed to excellence and innovation. We believe that together we can build a future where food is a shared, healthy and enriching experience for everyone.",
-    "subtitle": "Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
+    "title": "En Nexus Food, estamos comprometidos con la excelencia y la innovación. Creemos que juntos podemos construir un futuro donde la alimentación sea una experiencia compartida, saludable y enriquecedora para todos.",
+    "subtitle": "Únase a nosotros en este emocionante viaje hacia un mundo donde las personas y sus mascotas puedan disfrutar juntos de una vida más sana y feliz.",
     "image": "video.webp",
     "alt": "four section image",
     "pill": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318279/medical_landing/cgqvizy18sa04gfuff5q.png",
@@ -49,31 +90,31 @@
     "band_text2": "From Hospital"
   },
   "section-five": {
-    "title1": "Nurturing the connection between humans and pets.",
-    "subtitle1": "Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
+    "title1": "Fomentar la conexión entre humanos y mascotas.",
+    "subtitle1": "Únase a nosotros en este emocionante viaje hacia un mundo donde las personas y sus mascotas puedan disfrutar juntos de una vida más sana y feliz.",
     "image1": "five1.webp",
     "alt1": "five section image1",
-    "title2": "Binding bonds through food.",
-    "subtitle2": "Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
+    "title2": "Unir lazos a través de la comida.",
+    "subtitle2": "Creemos que juntos podemos construir un futuro donde la alimentación sea una experiencia compartida, saludable y enriquecedora para todos. ",
     "image2": "five2.webp",
     "alt2": "five section image2"
   },
   "section-six": {
-    "title": "At Nexusfood, we are committed to excellence and innovation.",
-    "subtitle1": "Mission:",
-    "subtitle2": "Vision:",
-    "description1": "Our mission is to revolutionize the way people and their pets eat, offering a joint alternative that promotes the health and well-being of all. We strive to develop an agile and optimal platform that allows companies to better understand the needs of their customers and offer products and services adapted to their dietary requirements.",
-    "description2": "Our vision is to create a world where food is a bond between humans and pets, promoting healthy and sustainable eating habits for all. We aspire to be leaders in the human and pet food market, using technology and artificial intelligence to drive positive change in the industry."
+    "title": "En Nexus Food, estamos comprometidos con la excelencia y la innovación.",
+    "subtitle1": "Misión:",
+    "subtitle2": "Visión:",
+    "description1": "Nuestra misión es revolucionar la forma de comer de las personas y sus mascotas, ofreciendo una alternativa conjunta que promueva la salud y el bienestar de todos. Nos esforzamos en desarrollar una plataforma ágil y óptima que permita a las empresas comprender mejor las necesidades de sus clientes y ofrecer productos y servicios adaptados a sus requerimientos dietéticos.",
+    "description2": "Nuestra visión es crear un mundo donde la comida sea un vínculo entre humanos y mascotas, promoviendo hábitos alimentarios saludables y sostenibles para todos. Aspiramos a ser líderes en el mercado de alimentos para humanos y mascotas, utilizando tecnología e inteligencia artificial para impulsar cambios positivos en la industria."
   },
   "section-seven": {
-    "title": "Contact Us",
+    "title": "Contacta Con Nosotras",
     "subtitle": "",
     "input_placeholder": "Enter your email",
-    "button": "Contact",
+    "button": "Contáctanos",
     "error": "Please enter a valid email address."
   },
   "section-footer": {
-    "paragraph": "We believe that together we can build a future where food is a shared, healthy and enriching experience for everyone. Join us on this exciting journey to a world where people and their pets can enjoy healthier, happier lives together.",
+    "paragraph": "Creemos que juntos podemos construir un futuro donde la alimentación sea una experiencia compartida, saludable y enriquecedora para todos. Únase a nosotros en este emocionante viaje hacia un mundo donde las personas y sus mascotas puedan disfrutar juntos de una vida más sana y feliz.",
     "links": {
       "Company": {
         "name": "Company",
@@ -87,17 +128,25 @@
       },
       "Support": {
         "name": "Support",
-        "data": ["Support Center", "24x7 Service", "Quick Chat"]
+        "data": [
+          "Support Center",
+          "24x7 Service",
+          "Quick Chat"
+        ]
       },
       "Contact": {
-        "name": "Contact",
-        "data": ["+1826535375535", "+1843228662422", "call@nexusfood.com"]
+        "name": "Contáctanos",
+        "data": [
+          "",
+          "",
+          ""
+        ]
       },
       "facebook-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/hjq0dwit3dofven8tuqv.png",
       "twitter-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/vmtv5mcgy42lqyohhoqd.png",
       "linkedin-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/aaq0ffsigfezrku5k2gt.png",
       "social-media-alt": "social media image",
-      "copy": "Copy right @2022",
+      "copy": "Copyright @2024",
       "copy-name": "Nexusfood",
       "designBy": "Design by",
       "designBy-mame": "Sourav Aich"
@@ -108,15 +157,33 @@
   },
   "project": {
     "picture": "project.jpg",
-    "title": "Nexusfood: Platform For Eating Habits Of People And Pets",
-    "paragraph": "At the heart of our project is Artificial Intelligence, a powerful tool that allows us to analyze data quickly and efficiently to offer an optimal experience to our users. We strive to create an agile and optimal platform that allows companies to better understand consumer trends and unify the feeding of people and pets.",
+    "title": "Nexusfood: Plataforma Para Los Hábitos Alimentarios De Personas y Mascotas.",
+    "paragraph": "En el corazón de nuestro proyecto se encuentra la Inteligencia Artificial, una potente herramienta que nos permite analizar datos de forma rápida y eficiente para ofrecer una experiencia óptima a nuestros usuarios. Nos esforzamos en crear una plataforma ágil y óptima que permita a las empresas entender mejor las tendencias de consumo y unificar la alimentación de personas y mascotas.",
     "logo": "/logos/3.png",
     "alt": "project logo"
   },
   "blog": {
     "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713971967/new%20icons/f8hthk8boox5nag7odig.png",
     "title": "Blog",
-    "text": "Visit our blog!",
+    "text": "",
     "url": "https://nexusfood.blog.smartbiderdev.com"
-  }
+  },
+  "social": [
+    {
+      "id": 0,
+      "url": "https://www.instagram.com/nexus.food"
+    },
+    {
+      "id": 1,
+      "url": "https://www.facebook.com/profile.php?id=61559615224148"
+    },
+    {
+      "id": 2,
+      "url": "https://www.linkedin.com/company/food-paws-nexus"
+    },
+    {
+      "id": 3,
+      "url": "https://x.com/NexusFood"
+    }
+  ]
 }
